@@ -1192,74 +1192,71 @@ section.lazy-placeholder:after {
   margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-rEbgdtEytB {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #000000;
+.cid-rEJRVfi7vJ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f9f9f9;
 }
-.cid-rEbgdtEytB .nav-tabs {
+.cid-rEJRVfi7vJ .nav-tabs {
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
   border-bottom: none;
 }
-.cid-rEbgdtEytB .nav-tabs .nav-link {
+.cid-rEJRVfi7vJ .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #e4d295;
+  color: #767676;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
-  border: 1px solid #e4d295;
+  border: 1px solid #767676;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: all .3s;
 }
-.cid-rEbgdtEytB .nav-tabs .nav-link:hover {
-  background-color: #232323;
+.cid-rEJRVfi7vJ .nav-tabs .nav-link:hover {
+  background-color: #149dcc;
 }
-.cid-rEbgdtEytB .nav-tabs .nav-link:focus {
+.cid-rEJRVfi7vJ .nav-tabs .nav-link:focus {
   box-shadow: none;
-  background-color: #232323;
+  background-color: #149dcc;
 }
-.cid-rEbgdtEytB .nav-tabs .nav-link.active {
+.cid-rEJRVfi7vJ .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #ffffff;
   font-style: normal;
   border: none;
-  background: #232323;
+  background: #149dcc;
 }
-.cid-rEbgdtEytB .nav-tabs .nav-link.active:hover {
+.cid-rEJRVfi7vJ .nav-tabs .nav-link.active:hover {
   border: none;
 }
-.cid-rEbgdtEytB .mbr-section-subtitle {
+.cid-rEJRVfi7vJ .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rEbgdtEytB p {
+.cid-rEJRVfi7vJ p {
   color: #767676;
 }
-.cid-rEbgdtEytB .mbr-figure {
+.cid-rEJRVfi7vJ .mbr-figure {
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
   -webkit-align-self: flex-start;
   align-self: flex-start;
   padding-right: 4rem;
 }
-.cid-rEbgdtEytB .mbr-text {
+.cid-rEJRVfi7vJ .mbr-text {
   word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rEbgdtEytB .mbr-figure {
+  .cid-rEJRVfi7vJ .mbr-figure {
     padding-right: 0;
     padding-left: 0;
     padding-bottom: 2rem;
   }
 }
-.cid-rEbgdtEytB P {
-  color: #ffffff;
-}
-.cid-rEbgdtEytB H2 {
-  color: #f7ed4a;
+.cid-rEJRVfi7vJ P {
+  color: #000000;
 }
 .cid-rEJzrshkfb {
   padding-top: 45px;
